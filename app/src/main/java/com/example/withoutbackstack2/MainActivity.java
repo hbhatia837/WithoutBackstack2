@@ -77,6 +77,8 @@ public class MainActivity extends AppCompatActivity {
         {
             fragment=new SampleFragment();
             Log.e("tag1","default fragment"+fragment);
+            Log.e("tag2","git");
+            Log.e("tag2","git");
         }
 
 
